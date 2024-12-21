@@ -1,2 +1,2 @@
-# Caesar
-A ruby implementation of Caesar's cypher for the odin project.
+# Projects
+Repo for the implementations of the odin project's ruby projects.
